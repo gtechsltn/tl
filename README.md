@@ -4,7 +4,6 @@
   + Technical Leader
   + Team Leader
 
-<pre>
 Có bao giờ bạn tự hỏi vị trí TL là vị trí gì? TL có vai trò và trách nhiệm gì trong dự án? Có bao giờ bạn băn khoăn về công việc mình cần phải làm khi được tuyển hay được promote lên vị trí TL? Nếu có thì hãy tiếp tục đọc bài này nhé.
 
 
@@ -85,4 +84,3 @@ Kết luận
 Tôi hi vọng là với bài viết dài này đã cung cấp cho các bạn rõ hơn về vai trò và trách nhiệm của một TL trong dự án. Các công việc nêu trên là các công việc cơ bản chứ không phải toàn bộ các công việc mà một TLs có thể làm. Để trở thành TLs sẽ cần rất nhiều tố chất và có nhiều tố chất sẽ cần được mài dũa trong chính quá trình làm việc.
 
 Nếu bạn lựa chọn con đường này, chúc các bạn thành công!
-</pre>
