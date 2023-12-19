@@ -1,4 +1,4 @@
-# Team Leader and Technical Leader (TL) vai trò và trách nhiệm
+# Team Leader and Technical Leader vai trò và trách nhiệm
 + [TL vai trò và trách nhiệm](https://thanhpolimi.com/c%C3%B3-bao-gi%E1%BB%9D-b%E1%BA%A1n-t%E1%BB%B1-h%E1%BB%8Fi-v%E1%BB%8B-tr%C3%AD-tl-l%C3%A0-v%E1%BB%8B-tr%C3%AD-g%C3%AC-909c70b2d807)
 + TL có thể là kết quả của việc viết tắt tên của một trong 2 vị trí sau:
   + Technical Leader
