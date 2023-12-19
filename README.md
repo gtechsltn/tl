@@ -29,6 +29,7 @@ Team Leader: là người thiên về quản lý và dẫn dắt team. Một tea
 Technical Leader: Khác với Team Leader, Technical Leader tập trung vào kỹ thuật. Technical Leader giống như một chuyên gia trong lĩnh vực kỹ thuật được sử dụng trong dự án. Họ chịu trách nhiệm quản lý các khía cạnh kỹ thuật của hoạt động phát triển phần mềm trong một ngữ cảnh cụ thể như giải pháp, kiến trúc, các tiêu chí chất lượng, troubleshoot các vấn đề, ... nhằm đảm bảo giải pháp kỹ thuật được triển khai thành công. Họ hoạt động như lớp đệm giữa team và technical architect / solution architect. Họ cũng thực hiện việc phỏng vấn năng lực các member, nắm các điểm mạnh/yếu của từng member và thực hiện đào tạo các member đạt các kỹ năng cần thiết cho công việc trong một ngữ cảnh dự án cụ thể. Chúng ta có thể có nhiều Technical Leader trong một team.
 
 Một dự án chỉ có thể delivery thành công nếu như không gặp vấn đề kỹ thuật và con người. Chính vì lẽ đó trong khi team leader được sinh ra để quản lý con người và giải quyết vấn đề hợp tác trong team thì technical leader lại được sinh ra để giải quyết các vấn đề kỹ thuật và đảm bảo không có trở ngại nào trong việc triển khai giải pháp kỹ thuật. Thực tế như đã nói ở trên bàn về sự tách biết Tech Leader với Team Leader trong một công ty out sourcing là vô nghĩa cũng như bàn về sự tách biệt người quản lý và người lãnh đạo vì chúng ta có xu hướng cần cả 2 trong 1. Chính vì vậy tôi sẽ nói về công việc và trách nhiệm của vị trí TL với hàm nghĩa cả 2 vai trò trên trong 1 người.
+
 ![TL là ai](https://github.com/gtechsltn/tl/assets/87538251/6811a6af-db7a-44a6-a11f-73104664b7ff)
 
 
@@ -56,6 +57,7 @@ Như vậy có thể thấy một số công việc cụ thể của team leader
 + Giải quyết mâu thuẫn (conflicts), loại trừ các trở ngại (road blocker) ngăn cản team vận hành. Trong quá trình hoạt động sẽ phát sinh nhiều mẫu thuẫn trong công việc hay những yếu tố bên ngoài tác động ngăn cản team thực hiện theo kế hoạch đề ra. TL sẽ phải là người chủ động tìm cách xử lý các vấn đề trở ngại đó.
 + Điều phối (Facilitator) thông tin thông qua các phương tiện như email, họp, chat để các thành viên đều được cung cấp đầy đủ thông tin trong công việc. Cung cấp các phản hồi thường xuyên và liên tục (CFR — Conversation Feedback Recognition) đến các thành viên.
 + Xây dựng team (Team building) tạo ra một môi trường làm việc thoải mái, cung cấp động lực tốt cho member. Động viên tinh thần các thành viên, tăng cường gắn kết.
+
 ![Team Leader](https://github.com/gtechsltn/tl/assets/87538251/eacebf08-c799-4da3-884d-1d078ee6f0e5)
 
 **TL — Technical Leader**
@@ -85,6 +87,7 @@ Như vậy có thể tổng kết trách nhiệm của TL trên bình diện k�
 + Đào tạo và tổ chức đào tạo nâng cao năng lực của thành viên trong team nhằm đáp ứng nhu cầu của dự án
 + Đánh giá performance của thành viên trong team, ghi nhận sự tiến bộ và liên tục đưa ra những phản hồi thẳng thắn và trực tiếp để member nhận ra mục tiêu và hướng tới mục tiêu.
 + Fireman: Tổ chức hướng dẫn và trực tiếp xử lý issue
+
 ![Technical Leader](https://github.com/gtechsltn/tl/assets/87538251/e374d685-2980-41d5-91c2-d2fe1791a2d7)
 
 **Kết luận**
