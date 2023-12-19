@@ -1,3 +1,7 @@
+# CTO and TL
++ Chief Technology Officer (CTO)
++ Team Leader or Technical Leader (TL)
+
 # Vai trò của CTO trong một công ty outsourcing
 + [Vai trò của CTO trong một công ty outsourcing](https://thanhpolimi.com/vai-tr%C3%B2-c%E1%BB%A7a-cto-trong-m%E1%BB%99t-c%C3%B4ng-ty-outsourcing-bcf747ee1de4)
 + [Giám đốc công nghệ (CTO) là ai? Vai trò của CTO trong doanh nghiệp](https://careerbuilder.vn/vi/talentcommunity/wiki-career/giam-doc-cong-nghe-cto-la-ai-vai-tro-cua-cto-trong-doanh-nghiep.35A52061.html)
