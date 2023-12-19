@@ -7,7 +7,7 @@
 Có bao giờ bạn tự hỏi vị trí TL là vị trí gì? TL có vai trò và trách nhiệm gì trong dự án? Có bao giờ bạn băn khoăn về công việc mình cần phải làm khi được tuyển hay được promote lên vị trí TL? Nếu có thì hãy tiếp tục đọc bài này nhé.
 
 
-Trước hết tôi xin được giới thiệu tôi cũng là một lập trình viên như các bạn. Vì rất đam mê lập trình nên tối tìm hiểu rất nhiều về code và những thứ xung quanh nó. Tôi cũng rất nhiệt tình chia sẻ với các anh em về những thứ tôi đam mê nên được quản lý rất yêu quý. Từ một lập trình viên Fresher tôi đã được nâng lên thành Senior. Mọi chuyện bắt đầu khi anh quản lý nói với tôi rằng bước kế tiếp của con đường sự nghiệp là tôi phải trở thành một TL. Anh giao cho tôi một nhóm các bạn Fresher, Junior, Senior và team chúng tôi được tung vào một dự án. Như những chiến binh Nga được tung vào chiến trường U Cà (Ukraine), chúng tôi đã quậy dự án trở thành một bãi chiến trường hỗn độn đầy bug, tech debt, ... Anh quản lý đã đến nói với tôi rằng tôi làm Senior Developer rất tốt nhưng thiếu khả năng lãnh đạo và quản lý team. Bạn có thấy câu chuyện quen không?
+Trước hết tôi xin được giới thiệu tôi cũng là một lập trình viên như các bạn. Vì rất đam mê lập trình nên tối tìm hiểu rất nhiều về code và những thứ xung quanh nó. Tôi cũng rất nhiệt tình chia sẻ với các anh em về những thứ tôi đam mê nên được quản lý rất yêu quý. Từ một lập trình viên Fresher tôi đã được nâng lên thành Senior. Mọi chuyện bắt đầu khi anh quản lý nói với tôi rằng bước kế tiếp của con đường sự nghiệp là tôi phải trở thành một TL. Anh giao cho tôi một nhóm các bạn Fresher, Junior, Senior và team chúng tôi được tung vào một dự án. Như những chiến binh Nga được tung vào chiến trường U Cà (Ukraine), chúng tôi đã quậy dự án trở thành một bãi chiến trường hỗn độn đầy bug, technical debt, ... Anh quản lý đã đến nói với tôi rằng tôi làm Senior Developer rất tốt nhưng thiếu khả năng lãnh đạo và quản lý team. Bạn có thấy câu chuyện quen không?
 
 
 **TL là ai?**
@@ -75,7 +75,7 @@ Như vậy có thể tổng kết trách nhiệm của TL trên bình diện k�
 + Đưa ra các lựa chọn phù hợp về Technical Stacks (Framework, DBs, Platform, ...)
 + Setup môi trường phát triển ban đầu (dựng base project, ...)
 + Định nghĩa, lên kế hoạch theo dõi kiểm soát, đảm bảo các tiêu chí chất lượng code:
-  – Định nghĩa mục tiêu chất lượng: số lượng code smells, số lượng tech debt, số lượng test failed
+  – Định nghĩa mục tiêu chất lượng: số lượng code smells, số lượng technical debt, số lượng test failed
   – Định nghĩa tiêu chí đo lường: coding conventions
   – Lên Kế hoạch và thực hiện kiểm soát chất lượng code thông qua hoạt động review, unit test
   – Liên tục thống kê, đo lường sức khoẻ của dự án theo tiêu chí đã định nghĩa
