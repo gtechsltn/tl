@@ -11,6 +11,7 @@ Trước hết tôi xin được giới thiệu tôi cũng là một lập trìn
 
 
 TL là ai
+
 Sau một thời gian trầy trật cuối cùng tôi cũng có một cái nhìn rõ hơn về vị trí này và hôm nay tôi sẽ chia sẻ với các bạn.
 
 
@@ -31,9 +32,11 @@ Một dự án chỉ có thể delivery thành công nếu như không gặp v�
 
 
 Trách nhiệm của TL
+
 “Vậy TL thực ra là cần làm gì trong dự án?” là câu hỏi chung của những người đột nhiên một ngày được lên leader vẫn hỏi.
 
 TL — Team Leader
+
 Theo quan điểm của tôi trước tiên TL sẽ đóng vai mấy vai quản lý/lãnh đạo :
 
 + Người quản lý và giám sát (Supervisor): Chịu trách nhiệm giám sát toàn bộ các hoạt động trong team của mình
@@ -54,6 +57,7 @@ Như vậy có thể thấy một số công việc cụ thể của team leader
 + Xây dựng team (Team building) tạo ra một môi trường làm việc thoải mái, cung cấp động lực tốt cho member. Động viên tinh thần các thành viên, tăng cường gắn kết.
 
 TL — Technical Leader
+
 TL tiếp theo sẽ đóng vai quan hệ trực tiếp với developers
 
 + Senior Developer: rõ ràng có một thực tại đó là technical leader vẫn cần phải tham gia code như một bạn senior developer. Tuy nhiên khác với developer vốn chỉ cần quan tâm đến task mình được giao với một tầm nhìn hạn hẹp trong phạm vi công việc mình được giao thì TL thường đảm nhận những công việc có sức ảnh hưởng rộng hơn đến hoạt động của team như: dựng base project cho team, CI/CD, quyết định source code management strategy, phát triển các module dùng chung quan trọng, review code và phân loại các vấn đề chung để đề ra các best practice etc.. Có thể thấy ở đây TL vẫn code nhưng ở một level cao hơn.
@@ -81,6 +85,7 @@ Như vậy có thể tổng kết trách nhiệm của TL trên bình diện k�
 + Fireman: Tổ chức hướng dẫn và trực tiếp xử lý issue
 
 Kết luận
+
 Tôi hi vọng là với bài viết dài này đã cung cấp cho các bạn rõ hơn về vai trò và trách nhiệm của một TL trong dự án. Các công việc nêu trên là các công việc cơ bản chứ không phải toàn bộ các công việc mà một TLs có thể làm. Để trở thành TLs sẽ cần rất nhiều tố chất và có nhiều tố chất sẽ cần được mài dũa trong chính quá trình làm việc.
 
 Nếu bạn lựa chọn con đường này, chúc các bạn thành công!
