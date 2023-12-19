@@ -1,10 +1,15 @@
 # Vai trò của CTO trong một công ty outsourcing
 + [Vai trò của CTO trong một công ty outsourcing](https://thanhpolimi.com/vai-tr%C3%B2-c%E1%BB%A7a-cto-trong-m%E1%BB%99t-c%C3%B4ng-ty-outsourcing-bcf747ee1de4)
+  + Giám Đốc Công Nghệ (Chief Technology Officer – CTO)
+
+![image](https://github.com/gtechsltn/tl/assets/87538251/ea6cae9c-cb11-420c-b220-a0b33ab02698)
+
 # TL vai trò và trách nhiệm
 + [TL vai trò và trách nhiệm](https://thanhpolimi.com/c%C3%B3-bao-gi%E1%BB%9D-b%E1%BA%A1n-t%E1%BB%B1-h%E1%BB%8Fi-v%E1%BB%8B-tr%C3%AD-tl-l%C3%A0-v%E1%BB%8B-tr%C3%AD-g%C3%AC-909c70b2d807)
-+ TL có thể là kết quả của việc viết tắt tên của một trong 2 vị trí sau:
-  + Technical Leader
-  + Team Leader
+
+## TL có thể là kết quả của việc viết tắt tên của một trong 2 vị trí sau:
++ Technical Leader
++ Team Leader
 
 Có bao giờ bạn tự hỏi vị trí TL là vị trí gì? TL có vai trò và trách nhiệm gì trong dự án? Có bao giờ bạn băn khoăn về công việc mình cần phải làm khi được tuyển hay được promote lên vị trí TL? Nếu có thì hãy tiếp tục đọc bài này nhé.
 
